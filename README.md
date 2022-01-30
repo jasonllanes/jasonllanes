@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason S. Llanes</h1>
-<h3 align="center">Just a simple android dev making my way to the top.</h3>
+<h3 align="center">Just a learning game and android dev making its way to the top.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonllanes&label=Profile%20views&color=0e75b6&style=flat" alt="jasonllanes" /> </p>
 
